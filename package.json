@@ -1,0 +1,21 @@
+{
+  "name": "trading_blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Alex",
+    "email": "alexius.academia@gmail.com"
+  },
+  "repository": "/trading_blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-medium": "^0.1.0"
+  },
+  "dependencies": {}
+}
